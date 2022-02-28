@@ -1,1 +1,2 @@
-# Ball-Movement
+# synchronousBallMovement
+Ball moving synchronously
